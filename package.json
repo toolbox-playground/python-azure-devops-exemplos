@@ -1,0 +1,20 @@
+{
+  "name": "python-azure-devops-exemplos",
+  "version": "1.0.1",
+  "description": "![Toolbox](imgs/toolbox-playground.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toolbox-playground/python-azure-devops-exemplos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toolbox-playground/python-azure-devops-exemplos/issues"
+  },
+  "homepage": "https://github.com/toolbox-playground/python-azure-devops-exemplos#readme"
+}
